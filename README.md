@@ -29,7 +29,7 @@ To keep this tool free and fast, it uses your own Google Gemini API keys.
 ## 🚀 Installation
 
 1. Install a user script manager like [Tampermonkey](https://www.tampermonkey.net/).
-2. Install this script from [Greasy Fork](INSERT_YOUR_GREASYFORK_LINK_HERE) or copy-paste the code into a new script.
+2. Install this script from [Greasy Fork](https://greasyfork.org/it/scripts/567003-geoguessr-ai-match-reviewer) or copy-paste the code into a new script.
 3. Go to GeoGuessr and finish any **Duel** match.
 4. On the Summary page, click the new **"Show Round Review"** button.
 5. Paste your 3 unique keys into the setup form and hit **Save**.
